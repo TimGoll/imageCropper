@@ -1,0 +1,17 @@
+{
+	"offset": {
+		"x": 0,
+		"y": 0
+	},
+	"source_size": {
+		"x": 1000,
+		"y": 1000
+	},
+	"dest_size": {
+		"x": 1000,
+		"y": 1000
+	},
+	"source_path": "image_source",
+	"dest_path": "image_finished",
+	"prefix": "PIC"
+}
